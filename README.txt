@@ -1,3 +1,21 @@
+u-translate.ch
+
+Vladimir Borovik
+
+Übersetzungen ins Ukrainische
+
+
+Natel
++41 79 43 79 340
+
+E-Mail
+vladimir.borovik@protonmail.ch 
+
+
+
+© 2023 Vladimir Borovik  |  Design: HTML5 UP 
+
+___________________________________________________________
 Hyperspace by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
