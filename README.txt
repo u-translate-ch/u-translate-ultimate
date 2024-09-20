@@ -1,6 +1,6 @@
 u-translate.ch
 
-Vladimir Borovik
+Vladimir Thomas A. Stein Borovik
 
 Übersetzungen ins Ukrainische
 
@@ -9,11 +9,11 @@ Natel
 +41 79 43 79 340
 
 E-Mail
-vladimir.borovik@protonmail.ch 
+thomas.a.stein@protonmail.ch 
 
 
 
-© 2023 Vladimir Borovik  |  Design: HTML5 UP 
+© 2024 Vladimir Thomas A. Stein Borovik  |  Design: HTML5 UP 
 
 ___________________________________________________________
 Hyperspace by HTML5 UP
